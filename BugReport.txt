@@ -1,0 +1,8 @@
+ID
+Severuty
+Priority
+Title
+Summary
+Steps
+Actual result
+Expected result
